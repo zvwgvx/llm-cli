@@ -1,0 +1,3 @@
+# No external dependencies required!
+# This project uses only Python built-in libraries (json, sys, os, urllib)
+# Just run: python main.py
